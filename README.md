@@ -13,4 +13,4 @@ Read Intel cpu Control Register, Debug Register, VMX Feature. CPUID
  
 
 
-![alt text](Main.PNG)
+![alt text](IA64Helper.PNG)
